@@ -6,3 +6,4 @@ Long Nguyen - 9786198
 magic
 
 Lecture - Dimitri
+Due date 14/10/2020
