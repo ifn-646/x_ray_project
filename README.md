@@ -1,6 +1,5 @@
 # ifn_646_x_ray
 Team members:
-Nhung Nguyen - 10655549
-An Ngo - 10324399
+Nhung Nguyen - 10655549\n
+An Ngo - 10324399\n
 Long Nguyen - 9786198
-abakjdiu
