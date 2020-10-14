@@ -4,7 +4,7 @@ IFN646 - BIOMEDICAL DATA SCIENCE
 ------
 Teaching Team: Dr Dimitri Perrin - Jake Bradford
 ------
-** Team members:
+**Team members:
 1. Nhung Nguyen - 10655549
 2. An Ngo - 10324399
 3. Long Nguyen - 9786198
