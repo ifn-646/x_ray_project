@@ -178,5 +178,5 @@ for num, data in enumerate(test_data[:338]):
 	plt.title(str_label) 
 	y.axes.get_xaxis().set_visible(False) 
 	y.axes.get_yaxis().set_visible(False)
-print('aaaaaa')
+
 plt.show() 
